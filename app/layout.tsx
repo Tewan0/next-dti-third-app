@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "เว็บไซต์สำหรับคำนวณการแบ่งเงิน",
   keywords: ["money", "share", "calculator", "finance"],
   icons: {
-    icon: "/public/iconMoney.png",
+    icon: "/iconMoney.png",
   },
 };
 
